@@ -19,3 +19,23 @@ function newQuote() {
 }
 
 
+// change background images //
+// var images = [
+//     "./assets/background1.jpg",
+//     "./assets/background2.jpg"];
+// var backgroundchange = document.getElementById("change");
+// var i = 0;
+// setInterval(function() {
+//       backgroundchange.style.backgroundImage = "url(" + images[i] + ")";
+//       i = i + 1;
+//       if (i == images.length) {
+//         i =  0;
+//       }
+// }, 1000);
+
+// document.body.style.backgroundImage = "url('./assets/background1.jpg')";
+
+
+// test setInterval //
+//  const element = document.getElementById("change");
+//  setInterval(function() {element.innerHTML += "Hello "}, 5000);
