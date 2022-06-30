@@ -9,12 +9,11 @@ body{
     text-align: center;
     color: white;
     font-family: 'Merriweather', serif;
-    
+
 }
 h2{
     margin: 50px;
 }
-
 .button1{
     color:white;
     padding: 15px 15px;
@@ -34,12 +33,24 @@ h2{
     color:coral;
     text-decoration: none;
 }
-
 footer{
     /* margin-bottom: 10px; */
     margin-top: 200px;
     text-align: left;
 }
+a:link{
+    color: white;
+}
+a:visited{
+    color: white;
+}
+a:hover{
+    color: coral;
+}
+a:active{
+    color: coral;
+}
+
 
 /* media queries */
 @media screen and (max-width: 300px) {
