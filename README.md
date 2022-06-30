@@ -1,1 +1,3 @@
-# random-quotes
+# Random-quotes
+
+### A Javascript project
